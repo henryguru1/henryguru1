@@ -7,9 +7,7 @@ Frontend Web Developer
 I'm Frontend Developer with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
 
 *   🌍  I'm based in Nigeria
-*   ✉️  You can contact me at [henryemenikee@gmail.com](mailto:henryemenikee@gmail.com)
-
-                                      Skills<p align="left">
+*   ✉️  You can contact me at [henryemenikee@gmail.com](mailto:henryemenikee@gmail.com) Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
