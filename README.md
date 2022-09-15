@@ -4,7 +4,7 @@ Hi 👋 My name is Henry Emenike
 Frontend Web Developer
 ----------------------
 
-I'm Frontend Developer with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
+I'm a Frontend Developer with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [henryemenikee@gmail.com](mailto:henryemenikee@gmail.com) Skills<p align="left">
