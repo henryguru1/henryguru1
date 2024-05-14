@@ -1,10 +1,29 @@
 Hi 👋 My name is Henry Emenike
 ==============================
 
-Data Analystic||Frontend Web Developer
+Data Analyst||Frontend Web Developer
 ----------------------
-
-I'm a Frontend Developer with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
+As a results-driven data analyst and certified accountant, I
+transform complex datasets into strategic solutions using
+SQL and Python. My expertise in data visualization tools like
+Power BI and Tableau enables me to present findings in a
+visually compelling manner, empowering stakeholders to
+make informed decisions.
+With a proven track record of delivering impactful results, I
+utilize statistical models to:
+- Optimize marketing campaigns
+- Discern market trends
+- Boost operational efficiency
+My meticulous attention to detail and problem-solving
+abilities enable me to derive data-driven insights that
+directly influence business outcomes. My clear and concise
+communication style ensures that complex data insights are
+easily comprehensible to stakeholders across all levels,
+fostering collaboration and understanding of data's
+significance in shaping business strategies.
+  Also, I'm a Frontend Developer with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
+Let's connect and explore possibilities to work together
+towards a more inclusive and empowered financial future!
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [henryemenikee@gmail.com](mailto:henryemenikee@gmail.com) Skills<p align="left">
