@@ -54,8 +54,26 @@ towards a more inclusive and empowered financial future!
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="60" height="60"/> </a>
     
-    
 </div>
+<div align="center">
+  
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=telrich)  
+  
+  ![GitHub metrics](https://metrics.lecoq.io/telrich) 
+  
+--- 
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=telrich)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telrich)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=telrich&show_icons=true&count_private=true)  
+  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=telrich)  
+  
+</div>
+  
+  
     
                               
                     
